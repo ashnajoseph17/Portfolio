@@ -1,0 +1,43 @@
+.project {
+    width: 100%;
+    height: calc(81vh - 80px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    padding: 0;
+  }
+  
+  .project h1 {
+ 
+  padding-top: 60px;
+    text-align: center;
+    color: #3e3e39;
+    font-size: 40px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  .project img {
+    margin-bottom: 10px ;
+    border-radius: 10px;
+    width: 300px;
+  
+   }
+  
+  .project p {
+    font-size: 20px;
+    color: #3e3e39;
+    font-weight: 400;
+  }
+  
+  .project svg {
+    font-size: 40px;
+    color: #3e497a;
+  }
+  .description{
+    width: 50%;
+    text-align: center;
+    margin: 20px;
+    
+    
+  }
